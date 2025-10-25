@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Bamboo Wall Decor",
+    "image": "https://i.ibb.co/jkx5sJxc/How-To-Display-Indoor-Home-Plants-Creatively.jpg",
+    "description": "Sustainable bamboo wall art that adds a natural vibe to your space.",
+    "price": 39.99,
+    "category": "Wall Decor"
+  },
+  {
+    "id": 2,
+    "name": "Ceramic Plant Pot Set",
+    "image": "https://i.ibb.co/nMxqk3sQ/Osofsky-Oct19-5.jpg",
+    "description": "Minimalist ceramic pots perfect for indoor plants and succulents.",
+    "price": 24.99,
+    "category": "Pots & Planters"
+  },
+  {
+    "id": 3,
+    "name": "Wooden Shelf with Vines",
+    "image": "https://i.ibb.co/BVDxkZyv/decorating-a-living-room-with-plants-everywhere.jpg",
+    "description": "Eco-friendly wooden shelf with hanging vines for a green interior look.",
+    "price": 54.99,
+    "category": "Shelving"
+  },
+  {
+    "id": 4,
+    "name": "Recycled Glass Vase",
+    "image": "https://i.ibb.co/yFSRVNbp/6-16.webp",
+    "description": "Elegant vase made from 100% recycled glass for sustainable decorating.",
+    "price": 29.99,
+    "category": "Shelf & Vases"
+  },
+  {
+    "id": 1,
+    "name": "Bamboo Wall Decor",
+    "image": "https://i.ibb.co/jkx5sJxc/How-To-Display-Indoor-Home-Plants-Creatively.jpg",
+    "description": "Sustainable bamboo wall art that adds a natural vibe to your space.",
+    "price": 39.99,
+    "category": "Wall Decor"
+  },
+  {
+    "id": 2,
+    "name": "Ceramic Plant Pot Set",
+    "image": "https://i.ibb.co/nMxqk3sQ/Osofsky-Oct19-5.jpg",
+    "description": "Minimalist ceramic pots perfect for indoor plants and succulents.",
+    "price": 24.99,
+    "category": "Pots & Planters"
+  },
+  {
+    "id": 3,
+    "name": "Wooden Shelf with Vines",
+    "image": "https://i.ibb.co/BVDxkZyv/decorating-a-living-room-with-plants-everywhere.jpg",
+    "description": "Eco-friendly wooden shelf with hanging vines for a green interior look.",
+    "price": 54.99,
+    "category": "Shelving"
+  },
+  {
+    "id": 4,
+    "name": "Recycled Glass Vase",
+    "image": "https://i.ibb.co/yFSRVNbp/6-16.webp",
+    "description": "Elegant vase made from 100% recycled glass for sustainable decorating.",
+    "price": 29.99,
+    "category": "Shelf & Vases"
+  }
+]
